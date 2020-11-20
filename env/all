@@ -1,6 +1,6 @@
 #!/bin/bash
 # https://github.com/lxk0301/scripts/blob/master/githubAction.md
-PUSH_KEY=
+PUSH_KEY=SCU128246T4ffd286a7d9f744c517a37fd7b4d95be5fb745796395e
 BARK_PUSH=
 BARK_SOUND=
 TG_BOT_TOKEN=
